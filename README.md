@@ -5,6 +5,6 @@ Msfvenom Payload Generator
 
 # Install
 
-'pip3 install termcolor'
+`pip3 install termcolor`
 
-'python3 mvpg.py'
+`python3 mvpg.py`
