@@ -6,5 +6,6 @@ Msfvenom Payload Generator
 # Install
 
 `pip3 install termcolor`
+`pip3 install pyfiglet`
 
 `python3 mvpg.py`
